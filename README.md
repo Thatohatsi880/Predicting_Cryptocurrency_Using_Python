@@ -1,1 +1,1 @@
-# Predicting_Cryptocurrency_Using_Python
+Predicting future ethereum prices using python and machine learning
